@@ -1,2 +1,2 @@
 # learning-spring
-    testing and learning the features of Spring Boot
+    testing and learning the features of/on Spring Boot
