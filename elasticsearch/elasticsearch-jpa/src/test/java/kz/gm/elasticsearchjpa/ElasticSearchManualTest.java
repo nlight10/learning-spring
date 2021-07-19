@@ -30,6 +30,7 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 /**
  * Daddy: GM
  * BirthDate: 19.07.2021
+ * https://www.baeldung.com/spring-data-elasticsearch-tutorial
  */
 @ExtendWith(SpringExtension.class) // it's replace of JUnit4 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = ElasticConfig.class)
